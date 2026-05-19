@@ -1,0 +1,42 @@
+body {
+    font-family: Impact,;
+    background-color: #060606;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.container {
+    background: rgb(248, 2, 2);
+    padding: 20px;
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px gray;
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    width: 70%;
+    padding: 8px;
+}
+
+button {
+    padding: 8px;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background: #eee;
+    padding: 10px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
